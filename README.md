@@ -57,30 +57,21 @@ Securebin 是一个零知识端到端加密隐私笔记工具，所有数据在�
 
 ## 🚀 快速开始
 
-### 环境要求
+### 构建环境
 
-- Python 3.8+
+- Python 3.8
 - 现代浏览器（支持 Web Crypto API）
-- SQLite3（内置）
+- SQLite3（已内置）
 
 ### 安装步骤
 
-1. 克隆仓库
+**目前本工具已成功构建可执行文件版本**
 
-```bash
-git clone https://github.com/mhlmh/securebin.git
-cd securebin
-```
+1. 下载`exe`可执行文件到你的电脑
 
-2. 运行服务器
+2. 双击直接运行`exe`可执行文件
 
-```bash
-python app.py
-```
-
-3. 访问应用
-
-打开浏览器访问：http://localhost:5000
+3. 打开浏览器访问：http://localhost:5000
 
 ## 📁 项目结构
 
